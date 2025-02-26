@@ -133,7 +133,6 @@ ML-AI/
 ENV/
 env.bak/
 ML-AI.bak/
-ML-AI/pyvenv.cfg
 
 # Spyder project settings
 .spyderproject
