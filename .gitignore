@@ -31,6 +31,7 @@ share/python-wheels/
 MANIFEST
 Scripts/
 Lib/
+pyvenv.cfg
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
